@@ -8,7 +8,7 @@ export default function Room() {
     const appID = 68903004;
     const serverSecret = '395fc387e5511690340bdbcc8be6213a';
     const userID = String(Math.floor(Math.random() * 10000));
-    const userName = 'User_' + userID;
+    const userName = 'meetapp_' + userID;
 
     const kitToken = ZegoUIKitPrebuilt.generateKitTokenForTest(
         appID,
