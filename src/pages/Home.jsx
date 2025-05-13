@@ -1,3 +1,4 @@
+// Home.jsx
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { v4 as uuidv4 } from 'uuid';
@@ -12,7 +13,7 @@ export default function Home() {
     };
 
     return (
-        <div className="flex items-center justify-center h-screen">
+        <div className="flex items-center justify-center h-screen bg-gray-900">
             <div className="bg-gray-800 p-6 rounded-lg shadow-md w-96">
                 <h1 className="text-2xl font-bold mb-4 text-white">Join or Create a Meeting</h1>
                 <input
