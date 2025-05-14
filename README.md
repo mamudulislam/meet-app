@@ -32,7 +32,7 @@ This is a lightweight video conferencing application built with **React** and po
 
 ```bash
 git clone https://github.com/yourusername/react-video-meeting.git
-cd [files name]
+cd [meet-app]
 
 Install Dependencies
 npm install
