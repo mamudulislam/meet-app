@@ -22,20 +22,6 @@ This is a lightweight video conferencing application built with **React** and po
 
 ---
 
-## 📁 Project Structure
-
-.
-├── src/
-│ ├── App.jsx # Main App with routing
-│ ├── pages/
-│ │ ├── Home.jsx # Join/create room UI
-│ │ └── Room.jsx # Video conferencing component
-│ └── index.jsx # Entry point
-├── public/
-├── package.json
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
 
 
 ---
